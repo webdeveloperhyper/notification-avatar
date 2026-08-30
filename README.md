@@ -8,6 +8,9 @@ Notification Avatar is a free desktop companion app — your VRoid (VRM) avatar 
 
 **Jump to:** [✨ Features](#features) · [📖 Details](#getting-started) · [🗺️ Roadmap](#roadmap)
 
+Click for the YouTube demo ↓
+[![Cursor Avatar v1 Demo](https://img.youtube.com/vi/0SCemZqVo4w/maxresdefault.jpg)](https://www.youtube.com/watch?v=0SCemZqVo4w)
+
 🛒 **[Download from GitHub Releases](https://github.com/webdeveloperhyper/notification-avatar/releases)**
 
 ---
@@ -197,6 +200,9 @@ Notification Avatar は無料のデスクトップ companion アプリです。*
 > Notification Avatar は **[AI Avatar](https://github.com/webdeveloperhyper/ai-avatar)** のスピンオフ。AI AvatarはVRoid（VRM）アバターが全力で応援してくれる無料アプリ。VS Code サイドバーやブラウザのサイドパネルで動作します。
 
 **ジャンプ:** [✨ 機能](#機能) · [📖 詳細](#はじめかた) · [🗺️ ロードマップ](#ロードマップ)
+
+Click for the YouTube demo ↓
+[![Cursor Avatar v1 Demo](https://img.youtube.com/vi/0SCemZqVo4w/maxresdefault.jpg)](https://www.youtube.com/watch?v=0SCemZqVo4w)
 
 🛒 **[GitHub Releases からダウンロード](https://github.com/webdeveloperhyper/notification-avatar/releases)**
 
